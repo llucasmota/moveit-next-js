@@ -5,7 +5,7 @@
 `yarn install`
 
 ### Subindo o servidor:  
-`yarn start`
+`yarn dev`
 
 ### Acessando aplicação:  
-`http://localhost:300`
+`http://localhost:3000`
